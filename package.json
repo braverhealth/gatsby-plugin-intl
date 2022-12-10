@@ -35,7 +35,9 @@
   "license": "MIT",
   "main": "index.js",
   "peerDependencies": {
-    "gatsby": "^5.0.0"
+    "react": "^16.14.0",
+    "react-dom": "^16.14.0",
+    "gatsby": ">=4.0.0 <5.0.0"
   },
   "repository": "https://github.com/wiziple/gatsby-plugin-intl",
   "scripts": {
